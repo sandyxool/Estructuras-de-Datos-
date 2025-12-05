@@ -1,0 +1,10 @@
+Postfija: 2 3 + ; Resultado: 5.00
+
+Postfija: 3 1 2 + * ; Resultado: 9.00
+
+Postfija: 2 5 + 7 / 3 7 5 + * + ; Resultado: 37.00
+
+Postfija: 2 3 4 + * ; Resultado: 14.00
+
+Postfija: 2 4 + 7 * 3 9 5 - * + ; Resultado: 54.00
+
