@@ -1,2 +1,1 @@
-# Estructuras-de-Datos-
-Actividad final
+# Estructuras-de-Datos: Actividad final
