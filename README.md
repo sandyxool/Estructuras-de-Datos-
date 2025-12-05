@@ -1,6 +1,6 @@
 # Estructuras de Datos: Actividad final
-# Unidad 1 pilas y colas: 
-**ADA 1: pilas**
+# Unidad 1 Pilas y colas: 
+**ADA 1: Pilas**
 
 **Problema:** Parser de Expresiones Aritméticas 
 
@@ -17,11 +17,11 @@ salida con un conjunto de líneas con las expresiones postfijas correspondientes
 tal expresión postfija y con delimitador final punto y coma. 
 
 
-**ADA 2: colas**
+**ADA 2: Colas**
 
 **Problema** Simulador de Atención al Cliente en un Banco (Queues)
 
-**Descripcion**: Desarrollar un programa que simule la atención en un banco con 3 cajas 
+**Descripción:** Desarrollar un programa que simule la atención en un banco con 3 cajas 
 de atención. Los clientes llegan de forma aleatoria a las cajas: 
 La aplicación debe:
 * Generar a los clientes con el número de transacciones bancarias (tiempo en que estará en la 
@@ -32,10 +32,35 @@ salió el cliente)
 * Calcular algunas estadísticas como: tiempo promedio de espera en cada cola, número de 
 * clientes atendidos en cada cola, etc.
 
+# Unidad 2 listas ligadas:
+
+**ADA 3: Listas**
+
+**Problema:** Implementación de lista de Movies con Listas 
+
+**Descripción:** Utilizando el archivo Movie.csv implemente una Lista Doblemente Ligada de Movies (películas). La 
+implementación deberá contar con los siguientes procesos: 
+* Pueden seleccionar los atributos del archivo Movie que consideren más relevantes y puede seleccionar 
+algunas filas
+* Su Lista Ligada almacenará cada uno de los datos de las películas. 
+* Los procesos o funciones para contemplar son:
+  
+         - Importación de los datos a la lista (carga de datos).
+  
+         - Búsqueda de alguna película por título (puede ser nombre exacto o no)
+         y que muestre toda la información de esa película (director, actores, año de estreno, etc.)
+  
+         - Búsqueda de algún actor (cast) por nombre (puede ser nombre exacto o no) y que muestre toda
+         la información del actor (nombre de la película en la que ha trabajado, con el director de la película, 
+         el año de estreno, etc.)
+  
+         - Insertar una nueva película con todos sus datos, la inserción puede ser en cualquier lugar de la 
+         lista, al principio, al final, etc.
+
+         - Eliminar una película por título (puede ser nombre exacto o no) y que muestre toda la información 
+         de la película antes de eliminar indicando con un mensaje al usuario ¿desea eliminar?
+
+          - Actualizar algunos datos de la película, aquí primero se debe hacer una búsqueda por título de la 
+          película y posteriormente se le indica al usuario que dato de la película se quiere modificar. 
+
  
-# ADA 3: 
-Descripcion del ada: 
-# ADA 4: 
-Descripcion del ada: 
-# ADA 5: 
-Descripcion del ada: 
